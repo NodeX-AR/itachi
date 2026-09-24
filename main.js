@@ -1,7 +1,7 @@
 /* ═══════════════════════════════════════════════════════════
    UCHIHA ITACHI — scroll-scrubbed frames + mouse-tracked eyes
    ═══════════════════════════════════════════════════════════ */
-
+ 
 const MAIN_COUNT = 71;
 const EYE_COUNT  = 51;
 const pad = n => String(n).padStart(3, '0');
